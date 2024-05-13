@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1713940894 source:c:\users\gabrielle\desktop\c\vm_manager\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<list>
+	<string.h>
+	<list>
+	<vector>
+
